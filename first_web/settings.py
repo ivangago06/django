@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'first_web_app',
+    'portafolio.apps.PortafolioConfig',
 ]
 
 MIDDLEWARE = [
